@@ -348,3 +348,227 @@ Purging the undo buffer...
 [2016.09.09-19.32.08:165][740]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 165.467ms to complete.
 [2016.09.09-19.32.08:189][740]LogEditorBuildUtils: Build time 0:05
 [2016.09.09-19.32.37:186][374]Job is a success!
+[2016.09.09-19.32.40:618][375]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.09.09-19.32.40:619][375]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.09.09-19.32.40:619][375]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.09.09-19.32.40:619][375]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.09.09-19.32.40:619][375]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.09.09-19.32.40:619][375]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.09.09-19.32.41:238][375]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2016.09.09-19.32.41:238][375]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2016.09.09-19.32.41:238][375]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.09.09-19.32.41:370][375]Lightmass on ARCHI-PC: 29.3 sec total, 910 ms importing, 127 ms setup, 4.17 sec photons, 24.0 sec processing, 0 ms extra exporting [47/47 mappings]. Threads: 1:36 min total, 57.1 sec processing.
+[2016.09.09-19.32.41:391][375]LogStaticLightingSystem: Illumination: 37.9 sec (2.75 sec encoding lightmaps, 612 ms encoding shadowmaps)
+[2016.09.09-19.32.41:391][375]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2016.09.09-19.32.41:391][375]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 3 textures
+[2016.09.09-19.32.41:737][376]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.09.09-19.32.41:737][376]MapCheck: New page: LevelEditing - Sep 10, 2016, 12:32:41 AM
+[2016.09.09-19.32.41:930][376]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 191.954ms to complete.
+[2016.09.09-19.32.58:922][ 17]LogSavePackage: Save=1171.10ms
+[2016.09.09-19.32.58:942][ 17]LogSavePackage: Moving '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/LevelEditingEA17E177469F02D075B2EC8F811F39F8.tmp' to '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap'
+[2016.09.09-19.32.58:952][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap
+[2016.09.09-19.32.59:060][ 17]LogFileHelpers: Saving map 'LevelEditing' took 1.546
+[2016.09.09-19.38.40:103][414]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.09-19.38.40:103][414]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.09-19.40.50:781][ 12]MapCheck: New page: Map Check
+[2016.09.09-19.40.50:845][ 12]Cmd: MAP REBUILD ALLVISIBLE
+[2016.09.09-19.40.50:845][ 12]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.09.09-19.40.50:968][ 12]LightingResults: New page: Lighting Build - Sep 10, 2016, 12:40:50 AM
+[2016.09.09-19.40.50:995][ 12]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.09.09-19.40.50:998][ 12]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.09.09-19.40.50:998][ 12]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.09.09-19.40.51:001][ 12]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.09.09-19.40.51:001][ 12]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3388
+[2016.09.09-19.40.55:519][ 12]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.09.09-19.40.55:519][ 12]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.09.09-19.40.55:519][ 12]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.09.09-19.40.55:519][ 12]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.09.09-19.40.55:519][ 12]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.09.09-19.40.55:519][ 12]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.09.09-19.40.55:817][ 12]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.09.09-19.40.55:818][ 12]MapCheck: New page: LevelEditing - Sep 10, 2016, 12:40:55 AM
+[2016.09.09-19.40.55:995][ 12]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 177.653ms to complete.
+[2016.09.09-19.40.56:020][ 12]LogEditorBuildUtils: Build time 0:05
+[2016.09.09-19.41.38:403][218]Job is a success!
+[2016.09.09-19.41.41:599][220]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.09.09-19.41.41:599][220]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.09.09-19.41.41:599][220]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.09.09-19.41.41:599][220]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.09.09-19.41.41:599][220]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.09.09-19.41.41:599][220]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.09.09-19.41.42:228][220]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (BGRA8)
+[2016.09.09-19.41.42:228][220]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (BGRA8)
+[2016.09.09-19.41.42:228][220]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2016.09.09-19.41.42:347][220]Lightmass on ARCHI-PC: 40.9 sec total, 854 ms importing, 122 ms setup, 4.61 sec photons, 35.3 sec processing, 0 ms extra exporting [47/47 mappings]. Threads: 2:21 min total, 1:28 min processing.
+[2016.09.09-19.41.42:376][220]LogStaticLightingSystem: Illumination: 51.3 sec (2.74 sec encoding lightmaps, 623 ms encoding shadowmaps)
+[2016.09.09-19.41.42:376][220]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2016.09.09-19.41.42:377][220]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 3 textures
+[2016.09.09-19.41.42:575][221]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.09.09-19.41.42:576][221]MapCheck: New page: LevelEditing - Sep 10, 2016, 12:41:42 AM
+[2016.09.09-19.41.42:767][221]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 191.28ms to complete.
+[2016.09.09-19.41.46:590][336]Cmd: SELECT NONE
+[2016.09.09-19.43.03:309][888]LogSavePackage: Save=442.42ms
+[2016.09.09-19.43.03:309][888]LogSavePackage: Moving '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/LevelEditing_Auto169A41B3746FBE72D0BF2289093BDF26E.tmp' to '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/Autosaves/Game/LevelEditingTutorial/Maps/LevelEditing_Auto1.umap'
+[2016.09.09-19.43.03:320][888]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/Autosaves/Game/LevelEditingTutorial/Maps/LevelEditing_Auto1.umap
+[2016.09.09-19.43.03:344][888]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelEditingTutorial/Maps/LevelEditing' took 0.757
+[2016.09.09-19.43.03:344][888]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.757
+[2016.09.09-19.43.52:491][778]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2016.09.09-19.43.53:448][810]Cmd: DELETE
+[2016.09.09-19.43.53:448][810]Cmd: ACTOR DELETE
+[2016.09.09-19.43.53:637][810]LogEditorActor: Deleted Actor: PointLight
+[2016.09.09-19.43.53:697][810]LogEditorActor: Deleted 1 Actors (0.192 secs)
+[2016.09.09-19.44.15:137][508]LogActorFactory: Actor Factory created SM_PillarFrame
+[2016.09.09-19.44.18:701][641]LogActorFactory: Actor Factory created SM_PillarFrame
+[2016.09.09-19.44.21:202][722]Cmd: SELECT NONE
+[2016.09.09-19.44.23:371][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.44.28:407][957]Cmd: SELECT NONE
+[2016.09.09-19.45.04:232][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.45.12:622][728]Cmd: SELECT NONE
+[2016.09.09-19.45.53:287][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.46.00:166][  6]Cmd: TRANSACTION UNDO
+[2016.09.09-19.46.00:167][  6]LogEditorTransaction: Undo Move Actors
+[2016.09.09-19.46.19:761][625]Cmd: SELECT NONE
+[2016.09.09-19.46.24:781][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame2)
+[2016.09.09-19.46.45:403][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame2)
+[2016.09.09-19.46.51:921][757]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.09.09-19.46.54:462][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.09.09-19.47.05:560][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x501)
+[2016.09.09-19.47.22:067][738]Cmd: SELECT NONE
+[2016.09.09-19.47.24:855][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.47.30:909][ 38]Cmd: SELECT NONE
+[2016.09.09-19.47.44:462][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame2)
+[2016.09.09-19.47.47:999][680]Cmd: SELECT NONE
+[2016.09.09-19.47.55:623][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.48.26:789][ 55]Cmd: SELECT NONE
+[2016.09.09-19.48.28:482][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.49.51:387][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame3)
+[2016.09.09-19.49.54:704][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame4)
+[2016.09.09-19.50.07:017][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame3)
+[2016.09.09-19.50.12:778][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame4)
+[2016.09.09-19.50.17:543][365]Cmd: SELECT NONE
+[2016.09.09-19.51.59:005][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame2)
+[2016.09.09-19.52.22:392][577]Cmd: SELECT NONE
+[2016.09.09-19.52.32:399][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame6)
+[2016.09.09-19.52.56:764][479]Cmd: SELECT NONE
+[2016.09.09-19.53.06:092][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame5)
+[2016.09.09-19.53.30:429][703]Cmd: SELECT NONE
+[2016.09.09-19.53.43:221][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame3)
+[2016.09.09-19.53.58:617][777]LogSavePackage: Save=989.26ms
+[2016.09.09-19.53.58:617][777]LogSavePackage: Moving '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/LevelEditingAD8B89E3454E0921D99881A57CBCDD5F.tmp' to '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap'
+[2016.09.09-19.53.58:628][777]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap
+[2016.09.09-19.53.59:013][777]LogFileHelpers: Saving map 'LevelEditing' took 1.697
+[2016.09.09-19.55.01:800][238]Cmd: SELECT NONE
+[2016.09.09-19.55.11:256][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.55.37:155][389]Cmd: SELECT NONE
+[2016.09.09-19.55.47:136][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.55.58:620][764]Cmd: SELECT NONE
+[2016.09.09-19.56.01:907][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.56.49:488][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame8)
+[2016.09.09-19.56.51:111][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame)
+[2016.09.09-19.56.51:858][679]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame9)
+[2016.09.09-19.56.52:920][708]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame10)
+[2016.09.09-19.56.53:732][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame11)
+[2016.09.09-19.57.24:271][393]Cmd: SELECT NONE
+[2016.09.09-19.57.34:446][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame15)
+[2016.09.09-19.57.42:933][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame11)
+[2016.09.09-19.57.44:032][760]Cmd: SELECT NONE
+[2016.09.09-19.57.51:669][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame12)
+[2016.09.09-19.58.07:497][342]Cmd: SELECT NONE
+[2016.09.09-19.58.08:962][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame14)
+[2016.09.09-19.58.12:492][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame13)
+[2016.09.09-19.58.15:764][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame12)
+[2016.09.09-19.58.18:811][703]Cmd: TRANSACTION UNDO
+[2016.09.09-19.58.18:812][703]LogEditorTransaction: Undo Move Actors
+[2016.09.09-19.58.22:767][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame14)
+[2016.09.09-19.58.25:296][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame15)
+[2016.09.09-19.58.28:947][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame14)
+[2016.09.09-19.58.31:330][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame13)
+[2016.09.09-19.58.34:387][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame12)
+[2016.09.09-19.58.42:695][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame11)
+[2016.09.09-19.58.44:141][502]Cmd: DELETE
+[2016.09.09-19.58.44:141][502]Cmd: ACTOR DELETE
+[2016.09.09-19.58.49:922][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.09-19.58.51:211][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.09-19.58.51:830][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.09-19.58.52:413][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.09-19.58.53:383][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.09-19.58.53:457][502]LogEditorActor: Deleted 5 Actors (9.316 secs)
+[2016.09.09-19.58.54:703][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame12)
+[2016.09.09-19.58.55:502][566]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame13)
+[2016.09.09-19.58.56:122][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame14)
+[2016.09.09-19.58.56:809][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame15)
+[2016.09.09-19.58.57:803][623]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame16)
+[2016.09.09-19.59.13:080][ 91]Cmd: SELECT NONE
+[2016.09.09-19.59.17:118][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame13)
+[2016.09.09-19.59.37:600][867]Cmd: SELECT NONE
+[2016.09.09-19.59.44:697][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame13)
+[2016.09.09-19.59.52:093][355]Cmd: TRANSACTION UNDO
+[2016.09.09-19.59.52:093][355]LogEditorTransaction: Undo Move Actors
+[2016.09.09-19.59.52:100][355]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelEditingTutorial/Maps/LevelEditing.LevelEditing:PersistentLevel.SM_PillarFrame15.StaticMeshComponent0) Component already registered.
+[2016.09.09-20.00.17:023][130]Cmd: SELECT NONE
+[2016.09.09-20.00.23:148][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame20)
+[2016.09.09-20.00.27:306][479]Cmd: SELECT NONE
+[2016.09.09-20.00.31:313][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame24)
+[2016.09.09-20.00.39:491][879]Cmd: SELECT NONE
+[2016.09.09-20.01.03:692][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame24)
+[2016.09.09-20.01.40:124][774]Cmd: TRANSACTION UNDO
+[2016.09.09-20.01.40:124][774]LogEditorTransaction: Undo Move Actors
+[2016.09.09-20.01.40:131][774]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelEditingTutorial/Maps/LevelEditing.LevelEditing:PersistentLevel.SM_PillarFrame30.StaticMeshComponent0) Component already registered.
+[2016.09.09-20.02.05:804][176]Cmd: SELECT NONE
+[2016.09.09-20.02.21:878][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame29)
+[2016.09.09-20.02.31:945][951]Cmd: SELECT NONE
+[2016.09.09-20.02.43:738][375]Cmd: SELECT NONE
+[2016.09.09-20.03.59:340][631]LogSavePackage: Save=1486.89ms
+[2016.09.09-20.03.59:340][631]LogSavePackage: Moving '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/LevelEditing_Auto25E19C5104FF31D53566EA08A37E53749.tmp' to '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/Autosaves/Game/LevelEditingTutorial/Maps/LevelEditing_Auto2.umap'
+[2016.09.09-20.03.59:353][631]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/Autosaves/Game/LevelEditingTutorial/Maps/LevelEditing_Auto2.umap
+[2016.09.09-20.03.59:363][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelEditingTutorial/Maps/LevelEditing' took 1.749
+[2016.09.09-20.03.59:364][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.749
+[2016.09.09-20.04.42:056][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame29)
+[2016.09.09-20.04.57:772][354]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.09-20.04.57:773][354]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.09-20.05.36:642][543]Cmd: TRANSACTION UNDO
+[2016.09.09-20.05.36:642][543]LogEditorTransaction: Undo Move Actors
+[2016.09.09-20.05.36:655][543]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelEditingTutorial/Maps/LevelEditing.LevelEditing:PersistentLevel.SM_PillarFrame35.StaticMeshComponent0) Component already registered.
+[2016.09.09-20.05.37:158][553]Cmd: TRANSACTION UNDO
+[2016.09.09-20.05.37:158][553]LogEditorTransaction: Undo Move Actors
+[2016.09.09-20.05.37:195][553]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelEditingTutorial/Maps/LevelEditing.LevelEditing:PersistentLevel.SM_PillarFrame35.StaticMeshComponent0) Component already registered.
+[2016.09.09-20.05.37:637][568]Cmd: TRANSACTION UNDO
+[2016.09.09-20.05.37:637][568]LogEditorTransaction: Undo Move Actors
+[2016.09.09-20.05.37:644][568]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelEditingTutorial/Maps/LevelEditing.LevelEditing:PersistentLevel.SM_PillarFrame35.StaticMeshComponent0) Component already registered.
+[2016.09.09-20.05.38:126][583]Cmd: TRANSACTION UNDO
+[2016.09.09-20.05.38:126][583]LogEditorTransaction: Undo Rotate Actors
+[2016.09.09-20.05.38:135][583]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelEditingTutorial/Maps/LevelEditing.LevelEditing:PersistentLevel.SM_PillarFrame35.StaticMeshComponent0) Component already registered.
+[2016.09.09-20.06.17:091][580]LogSavePackage: Save=1419.90ms
+[2016.09.09-20.06.17:092][580]LogSavePackage: Moving '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/LevelEditingBF19D5E446C5A49B401878B075FF3EC5.tmp' to '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap'
+[2016.09.09-20.06.17:116][580]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap
+[2016.09.09-20.06.17:490][580]LogFileHelpers: Saving map 'LevelEditing' took 2.220
+[2016.09.09-20.06.59:740][ 73]Cmd: SELECT NONE
+[2016.09.09-20.07.07:859][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame44)
+[2016.09.09-20.07.31:809][ 74]Cmd: SELECT NONE
+[2016.09.09-20.08.47:900][ 46]LogSavePackage: Save=2068.94ms
+[2016.09.09-20.08.47:903][ 46]LogSavePackage: Moving '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Saved/LevelEditing019A37BB4FF9EA2218DA1F9070F3A4D7.tmp' to '../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap'
+[2016.09.09-20.08.47:943][ 46]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Artem/Documents/Unreal Projects/LevelEditingTutorial/Content/LevelEditingTutorial/Maps/LevelEditing.umap
+[2016.09.09-20.08.48:292][ 46]LogFileHelpers: Saving map 'LevelEditing' took 2.841
+[2016.09.09-20.08.49:738][ 91]MapCheck: New page: Map Check
+[2016.09.09-20.08.49:799][ 91]Cmd: MAP REBUILD ALLVISIBLE
+[2016.09.09-20.08.49:799][ 91]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.09.09-20.08.49:950][ 91]LightingResults: New page: Lighting Build - Sep 10, 2016, 1:08:49 AM
+[2016.09.09-20.08.49:980][ 91]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.09.09-20.08.49:987][ 91]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.09.09-20.08.49:988][ 91]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.09.09-20.08.49:991][ 91]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.09.09-20.08.49:991][ 91]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3388
+[2016.09.09-20.08.54:509][ 91]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.09.09-20.08.54:509][ 91]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.09.09-20.08.54:509][ 91]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.09.09-20.08.54:509][ 91]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.09.09-20.08.54:509][ 91]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.09.09-20.08.54:509][ 91]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.09.09-20.08.54:837][ 91]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.09.09-20.08.54:838][ 91]MapCheck: New page: LevelEditing - Sep 10, 2016, 1:08:54 AM
+[2016.09.09-20.08.54:840][ 91]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.09.09-20.08.55:005][ 91]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 167.795ms to complete.
+[2016.09.09-20.08.55:029][ 91]LogEditorBuildUtils: Build time 0:05
+[2016.09.09-20.09.29:442][109]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.09-20.09.29:442][109]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.09-20.11.45:051][115]Job is a success!
